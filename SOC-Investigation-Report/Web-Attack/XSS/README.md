@@ -32,7 +32,7 @@ The alert was validated as a **True Positive**, representing an **unsuccessful X
 ## 📂 Report
 The full investigation report is available here:
 
-👉 [View PDF Report](XSS_Attack_Investigation_Report.pdf)
+👉 [View PDF Report](Event_ID_116_XSS_Attack_Investigation_Report.pdf)
 
 ---
 
