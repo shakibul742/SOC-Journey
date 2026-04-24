@@ -17,7 +17,7 @@ This folder contains documented SOC investigation cases completed in lab and tra
 
 | Category | Case | Summary | Links |
 | --- | --- | --- | --- |
-| Web Attack | XSS Attack Attempt | Investigated a SIEM alert for JavaScript detected in a requested URL and confirmed it as a true positive, unsuccessful XSS attempt. | [README](Web-Attack/XSS/README.md) \| [PDF Report](Web-Attack/XSS/XSS_Attack_Investigation_Report.pdf) |
+| Web Attack | XSS Attack Attempt | Investigated a SIEM alert for JavaScript detected in a requested URL and confirmed it as a true positive, unsuccessful XSS attempt. | [README](Web-Attack/XSS/README.md) \| [PDF Report](Web-Attack/XSS/Event_ID_116_XSS_Attack_Investigation_Report.pdf) |
 
 ## Folder Structure
 
@@ -27,7 +27,7 @@ SOC-Investigation-Report/
 └── Web-Attack/
     └── XSS/
         ├── README.md
-        └── XSS_Attack_Investigation_Report.pdf
+        └── Event_ID_116_XSS_Attack_Investigation_Report.pdf
 ```
 
 ## Method Used
