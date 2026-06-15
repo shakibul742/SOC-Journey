@@ -25,6 +25,8 @@
 - **Source Address:** `trenton@tritowncomputers.com`
 - **Target Address:** `lars@letsdefend.io`
 - **Subject:** `RE: Meeting Notes`
+- **Attachment Link:**  
+  `https://download.cyberlearn.academy/download/download?url=https://files-ld.s3.us-east-2.amazonaws.com/11f44531fb088d31307d87b01e8eabff.zip.zip`
 
 ## 4. Action Taken & Takeaway
 
