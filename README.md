@@ -1,23 +1,27 @@
-# SOC Analyst Learning Portfolio
+# 🛡️ SOC Analyst Portfolio
 
-This repository documents my practice and hands-on investigations as a beginner SOC analyst.
+Welcome to my cybersecurity portfolio! This repository serves as a centralized hub documenting my hands-on practice, alert triage, and incident investigations as an aspiring Security Operations Center (SOC) Analyst. 
 
-## Focus Areas
-- SOC Fundamentals
-- Alert Triage
-- Log Analysis
-- Incident Basics
-- SOC Analyst Path
-- Challenges
+## 🎯 Focus Areas
+- **Alert Triage & Investigation**: Analyzing SIEM alerts to distinguish true positives from false positives.
+- **Log Analysis**: Reading through HTTP, firewall, and endpoint logs.
+- **Threat Hunting Basics**: Identifying indicators of compromise (IOCs) such as malicious domains, IP addresses, and hashes.
+- **Incident Response**: Detailing containment steps and remediation lessons learned.
 
-## Learning Platforms
-- LetsDefend – SOC Analyst Path
+## 📁 Repository Structure
 
-## Repository Structure
-- SOC-Investigation-Report/ : Documented SOC investigation cases completed in lab and training environments (including Phishing and Web-Attack cases).
+### 🔎 [SOC Investigation Reports](./SOC-Investigation-Report/)
+This directory contains fully documented case studies of simulated alerts I have investigated. Each report follows a structured approach mapping to the MITRE ATT&CK framework.
 
-## Current Level
-- Beginner / Entry-level SOC Analyst (Learning Phase)
+- **[Phishing Investigations](./SOC-Investigation-Report/Phishing/)**: Cases involving malicious emails, URLs, and attachments (e.g., legacy Excel 4.0 Macros).
+- **[Web Attack Investigations](./SOC-Investigation-Report/Web-Attack/)**: Cases analyzing malicious web traffic, payload execution, and vulnerabilities (e.g., XSS attacks).
 
-## Disclaimer
-All activities are based on labs, simulations, and training environments.
+## 🛠️ Learning Platforms & Tools
+- **LetsDefend**: Primary platform for hands-on SOC Analyst path and incident simulations.
+- **Tools Used**: SIEM, VirusTotal, Any.Run, Exiftool, Volatility, URLhaus.
+
+## 📈 Current Level
+- **Beginner / Entry-level SOC Analyst** (Actively Learning and Practicing)
+
+## ⚠️ Disclaimer
+All activities, investigations, and logs documented in this repository are strictly based on safe labs, simulations, and training environments. No actual corporate or personal data is involved.
