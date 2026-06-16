@@ -1,6 +1,6 @@
 # SOC Analyst Learning Portfolio
 
-This repository documents my daily learning and practice as a beginner SOC analyst.
+This repository documents my practice and hands-on investigations as a beginner SOC analyst.
 
 ## Focus Areas
 - SOC Fundamentals
@@ -14,8 +14,7 @@ This repository documents my daily learning and practice as a beginner SOC analy
 - LetsDefend – SOC Analyst Path
 
 ## Repository Structure
-- Daily-Learning/ : Daily learning points (date-wise)
-- Progress/       : Weekly summaries and skill tracking
+- SOC-Investigation-Report/ : Documented SOC investigation cases completed in lab and training environments (including Phishing and Web-Attack cases).
 
 ## Current Level
 - Beginner / Entry-level SOC Analyst (Learning Phase)
