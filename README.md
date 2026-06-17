@@ -18,7 +18,7 @@ This directory contains fully documented case studies of simulated alerts I have
 
 ## Learning Platforms & Tools
 - **LetsDefend**: Primary platform for hands-on SOC Analyst path and incident simulations.
-- **Tools Used**: SIEM, VirusTotal, Any.Run, Exiftool, Volatility, URLhaus.
+- **Tools Used**: SIEM, VirusTotal, Any.Run, Exiftool, Volatility, URLhaus, etc.
 
 ## Current Level
 - **Beginner / Entry-level SOC Analyst** (Actively Learning and Practicing)
