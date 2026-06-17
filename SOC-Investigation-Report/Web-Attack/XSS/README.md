@@ -4,6 +4,7 @@
 This project documents a SOC investigation involving a suspected Cross-Site Scripting (XSS) attack detected through a SIEM alert. The analysis focuses on log analysis, HTTP traffic inspection, and attack validation.
 
 ## Alert Details
+- **Case**: SOC166
 - **Event ID**: 116
 - **Rule**: JavaScript Code Detected in Requested URL
 - **Severity**: Medium
