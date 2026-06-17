@@ -1,49 +1,22 @@
-# 🔍 SOC Investigation: XSS Attack Attempt
+# SOC Investigation: XSS Attack Attempt
 
-## 📖 Overview
-This project documents a real-world SOC investigation involving a suspected Cross-Site Scripting (XSS) attack detected through a SIEM alert.
+## Overview
+This project documents a SOC investigation involving a suspected Cross-Site Scripting (XSS) attack detected through a SIEM alert. The analysis focuses on log analysis, HTTP traffic inspection, and attack validation.
 
-The analysis was performed using LetsDefend, focusing on log analysis, HTTP traffic inspection, and attack validation.
+## Alert Details
+- **Event ID**: 116
+- **Rule**: JavaScript Code Detected in Requested URL
+- **Severity**: Medium
+- **Category**: Web Attack (XSS)
 
----
+## Key Findings
+- An external IP attempted multiple XSS payload injections (script, SVG, event-based).
+- Traffic direction: Internet to Internal Network.
+- The server responded with HTTP 302 and no content for malicious requests.
+- No evidence of payload execution or compromise was found.
 
-## 🚨 Alert Details
-- Event ID: 116
-- Rule: JavaScript Code Detected in Requested URL
-- Severity: Medium
-- Category: Web Attack (XSS)
+## Conclusion
+The alert was validated as a **True Positive**, representing an **unsuccessful XSS attack attempt**. This case highlights the importance of distinguishing between attack attempts and successful exploitation using HTTP response analysis.
 
----
-
-## 🌐 Key Findings
-- External IP attempted multiple XSS payload injections
-- Traffic direction: Internet → Internal Network
-- Payloads included script injection, SVG, and event-based execution
-- Server responded with HTTP 302 and no content for malicious requests
-- No evidence of payload execution or compromise
-
----
-
-## ✅ Conclusion
-The alert was validated as a **True Positive**, representing an **unsuccessful XSS attack attempt**.
-
----
-
-## 📂 Report
-The full investigation report is available here:
-
-👉 [View PDF Report](Event_ID_116_XSS_Attack_Investigation_Report.pdf)
-
----
-
-## 🛠️ Skills Demonstrated
-- Log Analysis
-- Web Attack Detection (XSS)
-- HTTP Traffic Analysis
-- Incident Classification
-- SOC Decision-Making
-
----
-
-## 📌 Notes
-This case highlights the importance of distinguishing between attack attempts and successful exploitation using HTTP response analysis.
+## Report
+[View PDF Report](Event_ID_116_XSS_Attack_Investigation_Report.pdf)
