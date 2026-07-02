@@ -1,0 +1,29 @@
+# SOC169 - Possible IDOR Attack Detected
+
+| Field | Value |
+|---------|---------|
+| Alert Name | SOC169 - Possible IDOR Attack Detected (EventID: 119 from LetsDefend) |
+| Date Investigated | 2026-07-02 |
+| Event Time | Feb, 28, 2022, 10:48 PM |
+| Verdict | True Positive |
+| Time Spent | 14 mins |
+
+## 1. Threat Frameworks & Impact
+
+- **MITRE ATT&CK:**
+  - T1190 – Exploit Public-Facing Application
+- **CVE:** N/A
+- **Impact:** Medium
+
+## 2. The "Why" (Core Evidence)
+
+- The alert was triggered because consecutive requests to the same page.
+
+## 3. Key IOCs
+
+- **Source Address** `134.209.118.137`
+- **Requested URL** `https://172.16.17.15/get_user_info/`
+
+## 4. Action Taken
+
+- Contained the affected user (**WebServer1005**) to prevent further malicious activity.
