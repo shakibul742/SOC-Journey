@@ -10,7 +10,7 @@
 
 ## 1. Analyst Note
 
-Mar, 14, 2024, 05:22 PM User (Tony) Download a malicious file (url: https://files-ld.s3.us-east-2.amazonaws.com/payload_1.ps1), then 05:23 PM , just 1 minute later the excute the pyload, and then successfully connected to c2, the parent process is explorer.exe. So this is a true positive alert, and the host is  Contained.
+Mar, 14, 2024, 05:22 PM User (Tony) Download a malicious file (url: https://files-ld.s3.us-east-2.amazonaws.com/payload_1.ps1), then 05:23 PM , just 1 minute later excute the payload, and then successfully connected to c2, the parent process is explorer.exe. So this is a true positive alert, and the host is Contained.
 
 ## 2. Threat Frameworks & Impact
 
