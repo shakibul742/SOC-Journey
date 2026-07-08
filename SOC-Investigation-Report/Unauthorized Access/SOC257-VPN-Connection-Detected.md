@@ -15,7 +15,7 @@ Investigation determined this alert is a True Positive. Firewall, VPN authentica
 ## Threat Frameworks & Impact
 
 - **MITRE ATT&CK:**
-  - 
+  - T1078 – Valid Accounts
 - **CVE:** N/A
 - **Impact:** Medium
 
