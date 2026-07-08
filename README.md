@@ -26,6 +26,9 @@ This section contains fully documented case studies of simulated alerts I have i
 | Phishing | Mail | SOC120 | 52 | Investigated an internal-to-internal phishing alert and verified it as a false positive. | [Report](./SOC-Investigation-Report/Phishing/SOC120-Phishing-Mail-Detected.md) |
 | Phishing | Mail | SOC140 | 82 | Investigated a blocked phishing email containing a link to a ZIP payload associated with a suspicious Task Scheduler alert. | [Report](./SOC-Investigation-Report/Phishing/SOC140-Phishing-Mail-Detected.md) |
 | Phishing | Lumma Stealer | SOC338 | 316 | Investigated a true positive phishing alert involving DLL Side-Loading. | [Report](./SOC-Investigation-Report/Phishing/SOC338-Lumma-Stealer.md) |
+| Brute Force | RDP | SOC176 | 234 | Investigated an alert for multiple failed RDP login attempts followed by a successful authentication, resulting in account compromise. | [Report](./SOC-Investigation-Report/Brute%20Force/SOC176-RDP-Brute-Force-Detected.md) |
+| Powershell | Suspicious Execution | SOC153 | 238 | Investigated an alert for a suspicious PowerShell script execution leading to a successful C2 connection. | [Report](./SOC-Investigation-Report/Powershell/SOC153-Suspicious-Powershell-Script-Executed.md) |
+| Unauthorized Access | VPN | SOC257 | 225 | Investigated an alert for a successful VPN connection from an unauthorized country following brute-force attempts. | [Report](./SOC-Investigation-Report/Unauthorized%20Access/SOC257-VPN-Connection-Detected.md) |
 
 ### Investigation Method
 - Review alert metadata and severity
