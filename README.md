@@ -28,7 +28,7 @@ Each case study documents a structured investigation from initial alert generati
 ## Tools & Methodology
 
 - **Platforms:** LetsDefend (Primary simulation environment).
-- **Tech Stack:** SIEM, VirusTotal, Any.Run, Exiftool, Volatility, URLhaus.
+- **Tech Stack:** SIEM, VirusTotal, Any.Run, Exiftool, Volatility, URLhaus, AbuseIPDB, Cisco Talos, Whois, etc.
 - **Methodology:** Alert Review ➔ Log Analysis ➔ Validation ➔ Eradication / Remediation.
 
 ---
