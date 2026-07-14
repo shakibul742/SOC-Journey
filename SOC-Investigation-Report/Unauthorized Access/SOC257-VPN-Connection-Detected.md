@@ -36,9 +36,10 @@ Investigation determined this alert is a True Positive. Firewall, VPN authentica
 ## References
 
 - **My LetsDefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/225
-- **Additional Write-up:** https://rideshcyber.hashnode.dev/soc257-vpn-connection-detected-from-unauthorized-country-eventid225
+- **Write-ups Reviewed After Investigation:** 
+  - https://rideshcyber.hashnode.dev/soc257-vpn-connection-detected-from-unauthorized-country-eventid225
 
-https://osintteam.blog/soc257-vpn-connection-detected-from-unauthorized-country-927dea73478d
+  - https://osintteam.blog/soc257-vpn-connection-detected-from-unauthorized-country-927dea73478d
 
-https://medium.com/@blockchainski2.0/soc257-vpn-connection-detected-from-unauthorized-country-4952f3c5d8c1
+  - https://medium.com/@blockchainski2.0/soc257-vpn-connection-detected-from-unauthorized-country-4952f3c5d8c1
 
