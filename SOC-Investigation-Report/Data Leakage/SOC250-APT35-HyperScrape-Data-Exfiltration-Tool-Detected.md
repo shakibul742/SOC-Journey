@@ -45,4 +45,4 @@ On Dec 27, 2023 at 11:22 AM, a SOC250 - APT35 HyperScrape Data Exfiltration Tool
 
 - **My LetsDefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/212
 - **Official MITRE ATT&CK:** https://attack.mitre.org/groups/G0059/
-- **Additional Write-up:** https://medium.com/@onle7231/lets-defend-soc250-apt35-hyperscrape-data-exfiltration-tool-detected-write-up-846ed72020c8
+- **Write-ups Reviewed After Investigation:** https://medium.com/@onle7231/lets-defend-soc250-apt35-hyperscrape-data-exfiltration-tool-detected-write-up-846ed72020c8
