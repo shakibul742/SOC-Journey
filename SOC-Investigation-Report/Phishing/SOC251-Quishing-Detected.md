@@ -41,7 +41,7 @@ On Jan 01, 2024, at 12:37 PM, a SOC251 - Quishing Detected (QR Code Phishing) al
 
 ## References
 
-
+- **My Letsdefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/214 
 - **Official MITRE ATT&CK:** https://attack.mitre.org/techniques/T1598/003/
 - **Write-ups Reviewed After Investigation:** 
     - https://medium.com/@ezequiel.palacio/letsdefend-soc251-quishing-detected-qr-code-phishing-f823cffcf2b3
