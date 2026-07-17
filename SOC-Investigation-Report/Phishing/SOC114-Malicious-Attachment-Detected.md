@@ -37,3 +37,8 @@
 
 - Deleted the phishing email from the recipient's mailbox.
 - Contained the affected user (**richard**) to prevent further malicious activity.
+
+## References
+
+- **My Letsdefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/45 
+- **Official MITRE ATT&CK:** https://attack.mitre.org/techniques/T1566/001/
