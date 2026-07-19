@@ -43,6 +43,9 @@ The alert was triggered because an impersonating domain (letsdefwnd.io) was conf
 
 ## References
 
+- **My Letsdefend Report:**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/304
+
 - **Official MITRE ATT&CK:**
   - https://attack.mitre.org/techniques/T1656/
   - https://attack.mitre.org/techniques/T1566/
