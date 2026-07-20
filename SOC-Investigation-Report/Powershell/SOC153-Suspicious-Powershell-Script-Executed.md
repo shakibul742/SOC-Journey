@@ -35,3 +35,15 @@ Mar, 14, 2024, 05:22 PM User (Tony) Download a malicious file (url: https://file
 ## 5. Action Taken
 
 - Contained the affected user (**Tony**) to prevent further malicious activity.
+
+## References
+
+- **My Letsdefend Report:**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/238
+
+- **MITRE ATT&CK:**
+  - T1059.001 – PowerShell
+  - T1071.001 – Application Layer Protocol: Web Protocols 
+
+- **Write-ups Reviewed:**
+  - https://medium.com/@aytuncbakir.ab/soc153-suspicious-powershell-script-executed-eventid-101-71bf29f7a547
