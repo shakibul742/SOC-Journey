@@ -34,7 +34,16 @@ The SOC176 - RDP Brute Force Detected alert was triggered on Mar 07, 2024 at 11:
 
 - Contained the compromised user account (**Matthew**) to prevent further malicious activity.
 
+
 ## References
 
-- **My Letsdefend Report:**
-  - https://app.letsdefend.io/case-management/casedetail/shakibul742/234
+* **My LetsDefend Report:**
+
+  * https://app.letsdefend.io/case-management/casedetail/shakibul742/234
+
+* **MITRE ATT&CK:**
+
+  * **T1110.001 – Brute Force: Password Guessing**
+    https://attack.mitre.org/techniques/T1110/001/
+  * **T1021.001 – Remote Services: Remote Desktop Protocol**
+    https://attack.mitre.org/techniques/T1021/001/
