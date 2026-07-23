@@ -47,3 +47,7 @@ The SOC176 - RDP Brute Force Detected alert was triggered on Mar 07, 2024 at 11:
     https://attack.mitre.org/techniques/T1110/001/
   * **T1021.001 – Remote Services: Remote Desktop Protocol**
     https://attack.mitre.org/techniques/T1021/001/
+
+* **Write-ups Reviewed:**
+
+  * https://0xmsahal.medium.com/soc176-rdp-brute-force-detected-a679825429f3
