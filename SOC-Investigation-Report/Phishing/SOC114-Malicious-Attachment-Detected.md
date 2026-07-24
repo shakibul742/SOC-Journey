@@ -41,4 +41,7 @@
 ## References
 
 - **My Letsdefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/45 
+
 - **Official MITRE ATT&CK:** https://attack.mitre.org/techniques/T1566/001/
+
+- **Write-ups Reviewed:** https://leyla-aliyeva.medium.com/soc114-malicious-attachment-detected-phishing-alert-investigation-7b4fb0283ce2
