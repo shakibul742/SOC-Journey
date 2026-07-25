@@ -5,6 +5,7 @@
 | Alert Name | SOC251 - Quishing Detected (QR Code Phishing) (EventID: 214 from LetsDefend) |
 | Date Investigated | 2026-07-15 |
 | Event Time | Jan, 01, 2024, 12:37 PM |
+| Skill Level | Easy |
 | Verdict | True Positive |
 | Time Spent | 31 mins |
 
@@ -31,7 +32,7 @@ On Jan 01, 2024, at 12:37 PM, a SOC251 - Quishing Detected (QR Code Phishing) al
 - **MITRE ATT&CK:**
   - T1598.003
 - **CVE:** N/A
-- **Impact:** Medium
+- **SEVERITY:** Medium
 
 
 ## Action Taken
