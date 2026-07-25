@@ -5,6 +5,7 @@
 | Alert Name | SOC250 - APT35 HyperScrape Data Exfiltration Tool Detected (EventID: 212 from LetsDefend) |
 | Date Investigated | 2026-07-11 |
 | Event Time | Dec, 27, 2023, 11:22 AM |
+| Skill Level | Medium |
 | Verdict | True Positive |
 | Time Spent | 1h 28 mins |
 
@@ -33,7 +34,7 @@ On Dec 27, 2023 at 11:22 AM, a SOC250 - APT35 HyperScrape Data Exfiltration Tool
 - **MITRE ATT&CK:**
   - TA453, COBALT ILLUSION, Charming Kitten, ITG18, Phosphorus, Newscaster, APT35, Mint Sandstorm
 - **CVE:** N/A
-- **Impact:** Medium
+- **SEVERITY:** Medium
 
 
 ## Action Taken
@@ -43,6 +44,9 @@ On Dec 27, 2023 at 11:22 AM, a SOC250 - APT35 HyperScrape Data Exfiltration Tool
 
 ## References
 
-- **My LetsDefend Report:** https://app.letsdefend.io/case-management/casedetail/shakibul742/212
-- **Official MITRE ATT&CK:** https://attack.mitre.org/groups/G0059/
-- **Write-ups Reviewed After Investigation:** https://medium.com/@onle7231/lets-defend-soc250-apt35-hyperscrape-data-exfiltration-tool-detected-write-up-846ed72020c8
+- **My LetsDefend Report:** 
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/212
+- **Official MITRE ATT&CK:** 
+  - https://attack.mitre.org/groups/G0059/
+- **Write-ups Reviewed After Investigation:** 
+  - https://medium.com/@onle7231/lets-defend-soc250-apt35-hyperscrape-data-exfiltration-tool-detected-write-up-846ed72020c8
