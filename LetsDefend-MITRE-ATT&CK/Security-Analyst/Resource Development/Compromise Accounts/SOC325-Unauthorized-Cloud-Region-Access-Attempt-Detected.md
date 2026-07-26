@@ -12,8 +12,7 @@
 
 ## Trigger Reason
 
-- 
-Too many access attempts with the same user were detected in a short period of time from an unauthorized (configured as “unused” or “unsupported”) cloud region.
+- Too many access attempts with the same user were detected in a short period of time from an unauthorized (configured as “unused” or “unsupported”) cloud region.
 
 
 ## Analyst Note
