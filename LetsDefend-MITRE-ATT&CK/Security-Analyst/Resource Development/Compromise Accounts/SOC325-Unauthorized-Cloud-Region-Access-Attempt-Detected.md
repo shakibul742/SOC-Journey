@@ -30,7 +30,9 @@ On Sep 24, 2024, at 08:21 AM, the SOC325 - Unauthorized Cloud Region Access Atte
 
 - **MITRE ATT&CK:**
   - T1586 - Compromise Accounts
-  - T1586.003 - Compromise Accounts: Cloud Accounts
+  - T1110 - Brute Force
+  - T1535: Unused/Unsupported Cloud Regions
+  - T1078: Valid Accounts (Initial Access)
 - **CVE:** N/A
 - **SEVERITY:** Low
 
@@ -42,6 +44,14 @@ On Sep 24, 2024, at 08:21 AM, the SOC325 - Unauthorized Cloud Region Access Atte
 
 ## References
 
+- **My LetsDefend Report:** 
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/303
+
 - **Official MITRE ATT&CK:** 
   - https://attack.mitre.org/techniques/T1586/
-  - https://attack.mitre.org/techniques/T1586/003/
+  - https://attack.mitre.org/techniques/T1110/
+  - https://attack.mitre.org/techniques/T1535/
+  - https://attack.mitre.org/techniques/T1078/
+
+  - **Write-ups Reviewed After Investigation:**
+    - https://medium.com/@adeyemiaayatullah/eventid-303-soc325-unauthorized-cloud-region-access-attempt-detected-dd626a61fde8
