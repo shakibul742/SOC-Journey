@@ -52,5 +52,5 @@ On Sep 24, 2024, at 08:21 AM, the SOC325 - Unauthorized Cloud Region Access Atte
   - https://attack.mitre.org/techniques/T1535/
   - https://attack.mitre.org/techniques/T1078/
 
-  - **Write-ups Reviewed After Investigation:**
-    - https://medium.com/@adeyemiaayatullah/eventid-303-soc325-unauthorized-cloud-region-access-attempt-detected-dd626a61fde8
+- **Write-ups Reviewed After Investigation:**
+  - https://medium.com/@adeyemiaayatullah/eventid-303-soc325-unauthorized-cloud-region-access-attempt-detected-dd626a61fde8
