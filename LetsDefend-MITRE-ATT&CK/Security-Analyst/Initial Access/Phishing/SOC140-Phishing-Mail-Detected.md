@@ -5,8 +5,9 @@
 | Alert Name | SOC140 - Phishing Mail Detected - Suspicious Task Scheduler (EventID: 82 from LetsDefend) |
 | Date Investigated | 2026-06-20 |
 | Event Time | Mar, 21, 2021, 12:26 PM |
+| Skill Level | Easy |
 | Verdict | True Positive |
-| Time Spent | 10 mins |
+| Time Spent | 20 mins |
 
 ## 1. Threat Frameworks & Impact
 
@@ -28,3 +29,14 @@
 ## 4. Action Taken & Takeaway
 
 - **Action:** Delete the email.
+
+## 5. References
+
+- **Investigation Report (LetsDefend):**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/93
+
+- **Official MITRE ATT&CK:**
+  - https://attack.mitre.org/techniques/T1566/002/
+
+- **Write-ups Reviewed:**
+  - https://medium.com/@higherdas09/letsdefend-soc140-phishing-mail-detected-event-id-82-dc88e1134d7e
