@@ -5,6 +5,8 @@
 | Alert Name | SOC326 - Impersonating Domain MX Record Change Detected (EventID: 304 from LetsDefend) |
 | Date Investigated | 2026-07-18 |
 | Event Time | Sep, 17, 2024, 12:05 PM |
+| Type | ThreatIntel |
+| Skill Level | Medium |
 | Verdict | True Positive |
 | Time Spent | 1h  22 mins |
 
