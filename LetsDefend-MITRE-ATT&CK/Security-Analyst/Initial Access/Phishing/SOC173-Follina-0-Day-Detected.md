@@ -48,6 +48,9 @@ On Jun, 02, 2022 at 03:22 PM the alert was triggered by a phishing email contain
 
 ## References
 
+- **Investigation Report (LetsDefend):**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/123
+
 - **Official MITRE ATT&CK:**
   - https://attack.mitre.org/techniques/T1566/001/
   - https://attack.mitre.org/techniques/T1203/
