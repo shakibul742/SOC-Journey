@@ -39,6 +39,9 @@ On May, 13, 2024 at 09:22 AM the SOC282 - Phishing Alert - Deceptive Mail Detect
 
 ## References
 
+- **Investigation Report (LetsDefend):**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/257
+
 - **Official MITRE ATT&CK:**
   - https://attack.mitre.org/techniques/T1566/001/
 
