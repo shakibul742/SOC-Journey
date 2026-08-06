@@ -37,5 +37,8 @@ On Mar, 07, 2021 at 05:47 PM the SOC105 - Requested T.I. URL address alert was t
 
 ## References
 
+- **Investigation Report (LetsDefend):**
+  -https://app.letsdefend.io/case-management/casedetail/shakibul742/75
+
 - **Write-ups Reviewed After Investigation:**
   - https://antoinemondange.medium.com/letsdefend-soc105-requested-t-i-url-address-ed3715df1e97
