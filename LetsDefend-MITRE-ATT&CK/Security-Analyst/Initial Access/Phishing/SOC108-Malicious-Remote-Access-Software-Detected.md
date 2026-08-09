@@ -5,6 +5,7 @@
 | Alert Name | SOC108 - Malicious Remote Access Software Detected (EventID: 38 from LetsDefend) |
 | Date Investigated | 2026-07-27 |
 | Event Time | Jan, 01, 2021, 05:36 PM |
+| Type | Malware |
 | Skill Level | Easy |
 | Verdict | False Positive |
 | Time Spent | 30 mins |
@@ -35,5 +36,8 @@ On Jan, 01, 2021 at 05:36 PM the SOC108 - Malicious Remote Access Software Detec
 
 ## References
 
-- **Write-ups Reviewed After Investigation:**
+- **Investigation Report (LetsDefend):**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/38
+
+- **Write-up Reviewed After Investigation:**
   - https://medium.com/@cyrilabajar091/soc108-malicious-remote-access-software-detected-454803863cae
