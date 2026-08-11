@@ -3,6 +3,7 @@
 | Field             | Value                                                                     |
 | ----------------- | ------------------------------------------------------------------------- |
 | Alert Name        | SOC342 - CVE-2025-53770 SharePoint ToolShell Auth Bypass and RCE         |
+| Event Id        | 320         |
 | Date Investigated | 2026-08-10                                                                |
 | Event Time        | Jul, 22, 2025, 01:07 PM                                                   |
 | Type              | Web Attack                                                                 |
@@ -46,6 +47,8 @@ Endpoint investigation confirmed successful exploitation. The SharePoint IIS wor
 
 ## References
 
+- **Investigation Report (LetsDefend):**
+  - https://app.letsdefend.io/case-management/casedetail/shakibul742/320
 
 - **CVE Details:**
   - https://nvd.nist.gov/vuln/detail/CVE-2025-53770
