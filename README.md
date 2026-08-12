@@ -77,7 +77,6 @@ When progressing through the active track, an investigation that already exists 
 
 | Archive category | Coverage |
 | :--- | :--- |
-| **[Web Attacks](./SOC-Investigation-Report/Web-Attack/)** | HTTP analysis, XSS, LFI, IDOR, and command injection. |
 | **[Phishing](./SOC-Investigation-Report/Phishing/)** | Malicious emails, URLs, attachments, and DLL side-loading. |
 | **[Brute Force](./SOC-Investigation-Report/Brute%20Force/)** | RDP login anomalies and account-compromise validation. |
 | **[PowerShell](./SOC-Investigation-Report/Powershell/)** | Suspicious script execution and command-and-control activity. |
